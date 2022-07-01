@@ -1,6 +1,5 @@
 {
-  "appOwners": [
-    {
+	"appOwners": [{
 			"name": "PManoha1",
 			"ntid": "pmanoh1",
 			"email": "p.m@test.com"
@@ -15,15 +14,15 @@
 			"ntid": "ves1",
 			"email": "v.m@test.com "
 		}
-  ],
-  "repoList": [
-    "git@gitlab.com:tmobile/appsec/appsec_services/whitebox-reporting.git",
-    "https://gitlab.com/tmobile/appsec/appsec_services/appsec-report.git",
-    "git@gitlab.com:tmobile/appsec/appsec_services/appsec-report-ingestion.git"
-  ],
-  "branches": {
-    "tmo/main",
-    "dev",
-    "feature/test"
-  }
+	],
+	"repoList": [
+		"git@gitlab.com:tmobile/appsec/appsec_services/whitebox-reporting.git",
+		"https://gitlab.com/tmobile/appsec/appsec_services/appsec-report.git",
+		"git@gitlab.com:tmobile/appsec/appsec_services/appsec-report-ingestion.git"
+	],
+	"branches": [
+		"tmo/main",
+		"dev",
+		"feature/test"
+	]
 }
