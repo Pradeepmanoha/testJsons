@@ -16,11 +16,14 @@
 			"email": "v.m@test.com "
 		}
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "repoList": [
+    "git@gitlab.com:tmobile/appsec/appsec_services/whitebox-reporting.git",
+    "https://gitlab.com/tmobile/appsec/appsec_services/appsec-report.git",
+    "git@gitlab.com:tmobile/appsec/appsec_services/appsec-report-ingestion.git"
   ],
-  "profile": {
-    "name": "typicode"
+  "branches": {
+    "tmo/main",
+    "dev",
+    "feature/test"
   }
 }
